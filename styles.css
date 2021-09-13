@@ -13,3 +13,8 @@
   display: block;
   margin: 20px auto;
 }
+[off] {
+  opacity: 0.5;
+  color: #111011;
+  background-color: #78727a;
+}
