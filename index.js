@@ -38,7 +38,7 @@ function startСolorСhange () {
 
 //функція зупинки зміни кольору
 function stopColorChange () {
-  btnIsActive = false
+    btnIsActive = false
     btnStart.removeAttribute('off')
     clearInterval(intervalId);
 }
